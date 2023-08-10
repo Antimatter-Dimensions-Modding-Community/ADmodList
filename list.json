@@ -1,0 +1,32 @@
+var modList=[
+	{
+		"catogary":"Turbo mods",
+		"description":"These mods only speed up the game, without adding any new content.",
+		"list":[
+			{
+				"name":"Jakav's mod",
+				"link":"https://jakav-n.github.io/AntimatterDimensionsSourceCode/",
+				"author":"Jakav",
+				"description":"This mod allows you to speed up the entire game by a adjustable factor up to 1e50."
+			},
+			{
+				"name":"Antimatter FAST Dimensions",
+				"link":"https://wyxkk.github.io/ADfaster/",
+				"author":"WYXkk",
+				"description":"This mod speeds up the game by a constant factor and added various buffs."
+			},
+		]
+	},
+	{
+		"catogary":"Origin mods", // I'm bad at naming...
+		"description":"These mods add new content in normal playthrough but not after the end in the original game.",
+		"list":[
+			{
+				"name":"Antimatter 9th Dimensions",
+				"link":"https://hexavault.github.io/AntimatterDimensions-Unoriginal/",
+				"author":"Hexa",
+				"description":"This mod adds the 9th dimension. Most things used to refer to 8th dimension now refers to 9th to prevent the game from broken."
+			},
+		]
+	},
+]
