@@ -29,4 +29,16 @@ var modList=[
 			},
 		]
 	},
+	{
+		"catogary":"Content mods",
+		"description":"These mods add new content after the end in the original game.",
+		"list":[
+			{
+				"name":"Antimatter Dimensions: Mend update",
+				"link":"https://toilet45.github.io/ADRedemption/",
+				"author":"Royal",
+				"description":"This mod adds a new prestige layer mend after the original ending."
+			},
+		]
+	},
 ]
