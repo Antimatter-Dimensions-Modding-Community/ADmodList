@@ -1,43 +1,55 @@
 var modList=[
 	{
 		"catogary":"Turbo mods",
-		"description":"These mods only speed up the game, without adding any new content.",
+		"description":"These mods only change how the game balances without adding any new content.",
 		"list":[
-			{
-				"name":"Jakav's mod",
-				"link":"https://jakav-n.github.io/AntimatterDimensionsSourceCode/",
-				"author":"Jakav",
-				"description":"This mod allows you to speed up the entire game by a adjustable factor up to 1e50."
-			},
 			{
 				"name":"Antimatter FAST Dimensions",
 				"link":"https://wyxkk.github.io/ADfaster/",
 				"author":"WYXkk",
 				"description":"This mod speeds up the game by a constant factor and added various buffs."
 			},
-		]
-	},
-	{
-		"catogary":"Origin mods", // I'm bad at naming...
-		"description":"These mods add new content in normal playthrough but not after the end in the original game.",
-		"list":[
 			{
-				"name":"Antimatter 9th Dimensions",
-				"link":"https://hexavault.github.io/AntimatterDimensions-Unoriginal/",
-				"author":"Hexa",
-				"description":"This mod adds the 9th dimension. Most things used to refer to 8th dimension now refers to 9th to prevent the game from broken."
+				"name":"Antimatter Dimensions Simplified",
+				"link":"https://arbiterfox.github.io/ADSimplified/",
+				"author":"ArbiterFox",
+				"description":"This mod adds various buffs and changed some mechanics to make the game simple."
 			},
 		]
 	},
 	{
-		"catogary":"Content mods",
+		"catogary":"Pre-END content mods",
+		"description":"These mods add new content in normal playthrough.",
+		"list":[
+			{
+				"name":"AD Unoriginal",
+				"link":"https://hexavault.github.io/AntimatterDimensions-Unoriginal/",
+				"author":"Hexa",
+				"description":"This mod adds the 9th dimension, and a new achievement each row."
+			},
+			{
+				"name":"AD: Rewarded",
+				"link":"https://rangaz.github.io/AntimatterDimensionsWithAchievementRewards/",
+				"author":"Rangazz",
+				"description":"This mod adds a reward for all achievements, and many many other contents about achievements."
+			},
+			{
+				"name":"Antimatter Dimensions Refined",
+				"link":"https://katze08.github.io/Antimatter-Dimensions-Refined/",
+				"author":"Katze08",
+				"description":"This mod is a NG-, by nerfing the game a little bit and add more content to re-accelerate."
+			},
+		]
+	},
+	{
+		"catogary":"Post-END content mods",
 		"description":"These mods add new content after the end in the original game.",
 		"list":[
 			{
-				"name":"Antimatter Dimensions: Mend update",
+				"name":"Antimatter Dimensions: Redemption",
 				"link":"https://toilet45.github.io/ADRedemption/",
-				"author":"Royal",
-				"description":"This mod adds a new prestige layer mend after the original ending."
+				"author":"Royal (and other developers)",
+				"description":"This mod adds a new prestige layer \"Mend\" after the original ending."
 			},
 		]
 	},
