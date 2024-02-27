@@ -1,6 +1,6 @@
 var modList=[
 	{
-		"catogary":"Turbo mods",
+		"category":"Turbo mods",
 		"description":"These mods only change how the game balances without adding any new content.",
 		"list":[
 			{
@@ -20,7 +20,7 @@ var modList=[
 		]
 	},
 	{
-		"catogary":"Pre-END content mods",
+		"category":"Pre-END content mods",
 		"description":"These mods add new content in normal playthrough.",
 		"list":[
 			{
@@ -42,32 +42,33 @@ var modList=[
 				"link":"https://katze08.github.io/Antimatter-Dimensions-Refined/",
 				"author":"Katze08",
 				"description":"This mod is a NG-, by nerfing the game a little bit and add more content to re-accelerate.<br>\
-					Currently it has content up to galaxy stage and some other things implemented, but seemingly abandoned."
+					Currently it has content up to galaxy stage and some other things implemented, but seemingly abandoned.<br>\
+					(It has some post-END features but very unimplemented)"
 			},
 		]
 	},
 	{
-		"catogary":"Post-END content mods",
+		"category":"Post-END content mods",
 		"description":"These mods add new content after the end in the original game.",
 		"list":[
 			{
 				"name":"Antimatter Dimensions: Redemption",
 				"link":"https://toilet45.github.io/ADRedemption/",
-				"author":"Royal (and other developers)",
+				"author":"Royal (and many other developers)",
 				"description":"This mod adds a new prestige layer \"Mend\" after the original ending.<br>\
 					Currently it has content up to first few mends, and more is in development."
 			},
 		]
 	},
 	{
-		"catogary":"AD-based different game",
-		"description":"These mods use code from AD with different content, and so is <i>*technically*</i> AD mod.",
+		"category":"AD-based different game",
+		"description":"These games use code from AD with different content, and so are <i>*technically*</i> AD mods.",
 		"list":[
 			{
 				"name":"Jiaozi Increment",
 				"link":"https://aquamarine309.github.io/JiaoziIncrement/",
 				"author":"aquamarine",
-				"description":"This is a game of making jiaozi (or dumping).<br>\
+				"description":"This is a game of making jiaozi (or Chinese dumpling).<br>\
 					It's currently only in Chinese, but google translation should mostly be ok."
 			},
 		]
