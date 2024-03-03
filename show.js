@@ -14,3 +14,6 @@ for(i in modList)
 	str+=stri;
 }
 show.innerHTML=str;
+
+let updateTime=document.getElementById('updateTime');
+updateTime.innerText=`Information of this page is last updated at ${new Date(updateTimeStamp*1000).toLocaleString()}.`

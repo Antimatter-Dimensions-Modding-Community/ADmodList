@@ -1,4 +1,4 @@
-var modList=[
+const modList=[
 	{
 		"category":"Turbo mods",
 		"description":"These mods only change how the game balances without adding any new content.",
@@ -68,9 +68,11 @@ var modList=[
 				"name":"Jiaozi Increment",
 				"link":"https://aquamarine309.github.io/JiaoziIncrement/",
 				"author":"aquamarine",
-				"description":"This is a game of making jiaozi (or Chinese dumpling).<br>\
-					It's currently only in Chinese, but google translation should mostly be ok."
+				"description":"This is a game of making jiaozi (or Chinese dumpling). And its default language is Chinese.<br>\
+					You can go to last tab's second subtab then click the topleft button to change language to English.<br>\
+					Not everything have an English translation currently."
 			},
 		]
 	},
-]
+];
+const updateTimeStamp=1709463600;
