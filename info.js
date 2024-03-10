@@ -15,7 +15,7 @@ const modList=[
 				"link":"https://arbiterfox.github.io/ADSimplified/",
 				"author":"ArbiterFox",
 				"description":"This mod adds various buffs and changed some mechanics to make the game simple.<br>\
-					Currently it is very buggy and almost abandoned. Also Cel7 is not fully implemented."
+					Currently it is very buggy and almost abandoned. Also doom is not fully implemented."
 			},
 		]
 	},
@@ -35,7 +35,7 @@ const modList=[
 				"link":"https://rangaz.github.io/AntimatterDimensionsWithAchievementRewards/",
 				"author":"Rangazz",
 				"description":"This mod adds a reward for all achievements, and many many other contents about achievements.<br>\
-					Currently it has content up to cel6. Cel7 is being developed."
+					Currently it has content up to pre-doom. Doom is being developed."
 			},
 			{
 				"name":"Antimatter Dimensions Refined",
@@ -44,6 +44,13 @@ const modList=[
 				"description":"This mod is a NG-, by nerfing the game a little bit and add more content to re-accelerate.<br>\
 					Currently it has content up to galaxy stage and some other things implemented, but seemingly abandoned.<br>\
 					(It has some post-END features but very unimplemented)"
+			},
+			{
+				"name":"Antimatter Dimensions Roguelike",
+				"link":"https://spotky1004.com/AntimatterDimensionsRoguelike/",
+				"author":"spotky1004",
+				"description":"This mod adds roguelike content to the game, starting from first dimension boost.<br>\
+					Currently it has content up to first few infinities, things past that are not implemented."
 			},
 		]
 	},
@@ -61,7 +68,7 @@ const modList=[
 		]
 	},
 	{
-		"category":"AD-based different game",
+		"category":"AD-code-based different game",
 		"description":"These games use code from AD with different content, and so are <i>*technically*</i> AD mods.",
 		"list":[
 			{
@@ -75,4 +82,4 @@ const modList=[
 		]
 	},
 ];
-const updateTimeStamp=1709463600;
+const updateTimeStamp=1710074000;
