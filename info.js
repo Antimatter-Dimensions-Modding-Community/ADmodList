@@ -59,11 +59,12 @@ const modList=[
 		"description":"These mods add new content after the end in the original game.",
 		"list":[
 			{
-				"name":"Antimatter Dimensions: Redemption",
+				"name":"Antimatter Dimensions: Redemption Legacy",
 				"link":"https://toilet45.github.io/ADRedemption/",
 				"author":"Royal (and many other developers)",
 				"description":"This mod adds a new prestige layer \"Mend\" after the original ending.<br>\
-					Currently it has content up to first few mends, and more is in development."
+					Besides some simple upgrades and milestones, there are more content like warp reality.<br>\
+					Currently it is abandoned for waiting for Break Eternity port of the game."
 			},
 		]
 	},
@@ -82,4 +83,4 @@ const modList=[
 		]
 	},
 ];
-const updateTimeStamp=1710074000;
+const updateTimeStamp=1714374000;
