@@ -17,6 +17,13 @@ const modList=[
 				"description":"This mod adds various buffs and changed some mechanics to make the game simple.<br>\
 					Currently it is very buggy and almost abandoned. Also doom is not fully implemented."
 			},
+			{
+				"name":"Antimatter FASTER Dimensions",
+				"link":"https://realjman.github.io/ADfasterer/",
+				"author":"jman",
+				"description":"This mod is a mod of the FAST mod, it adds more buffs to make it even faster.<br>\
+					You can easily complete the game in few hours, and sub-1h record already exists."
+			},
 		]
 	},
 	{
@@ -34,8 +41,8 @@ const modList=[
 				"name":"AD: Rewarded",
 				"link":"https://rangaz.github.io/AntimatterDimensionsWithAchievementRewards/",
 				"author":"Rangazz",
-				"description":"This mod adds a reward for all achievements, and many many other contents about achievements.<br>\
-					Currently it has content up to pre-doom. Doom is being developed."
+				"description":"This mod adds a reward for all achievements, and many other contents about achievements.<br>\
+					Currently the whole game is finished."
 			},
 			{
 				"name":"Antimatter Dimensions Refined",
@@ -51,6 +58,20 @@ const modList=[
 				"author":"spotky1004",
 				"description":"This mod adds roguelike content to the game, starting from first dimension boost.<br>\
 					Currently it has content up to first few infinities, things past that are not implemented."
+			},
+			{
+				"name":"Antimatter Dimensions V",
+				"link":"https://glitchyfishys.github.io/AntimatterDimensions-V/",
+				"author":"Glitchyfishy",
+				"description":"This mod adds a new goal system to help you progress, and some other new contents.<br>\
+					Currently it is finished up to cel6."
+			},
+			{
+				"name":"ADPuzzle",
+				"link":"https://aquamarine309.github.io/ADPuzzleTestVer/",
+				"author":"aquamarine",
+				"description":"This mod focus on creating puzzling gameplay everywhere like cel3 in base game.<br>\
+					Currently it is finished up to pre-eternity."
 			},
 		]
 	},
@@ -83,4 +104,4 @@ const modList=[
 		]
 	},
 ];
-const updateTimeStamp=1714374000;
+const updateTimeStamp=1720666800;
