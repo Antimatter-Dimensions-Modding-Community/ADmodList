@@ -51,6 +51,15 @@ const modList=[
 					Currently it is finished up to pre-eternity (1e2000 IP).
 				`
 			},
+			{
+				"name":"AD: Free",
+				"link":"https://wyxkk.github.io/ADfree/",
+				"author":"WYXkk",
+				"description":`
+					This mod makes anything that used to cost now a requirement, resulting a small acceleration.<br>
+					Currently it is mostly finished.
+				`
+			},
 		]
 	},
 	{
