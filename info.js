@@ -1,8 +1,9 @@
 const modList=[
 	{
-		"category":"Turbo mods",
+		"category":"Rebalance mods",
 		"description":`
-			These mods only change how the game balances without adding any new content.
+			These mods only change how the game balances without adding any new content.<br>
+			<i>"New content" means a completely new system to interact with.</i>
 		`,
 		"list":[
 			{
@@ -12,6 +13,16 @@ const modList=[
 				"description":`
 					This mod speed up the game by a constant factor and add various buffs.<br>
 					Currently it is mostly finished.
+				`
+			},
+			{
+				"name":"AD Unoriginal",
+				"link":"https://hexavault.github.io/AntimatterDimensions-Unoriginal/",
+				"author":"Hexa",
+				"description":`
+					This mod adds the 9th dimension (without rebalancing), and a new achievement each row.<br>
+					Since any boost that affects every dimension have total effect ^9/8, the game is massively accelerated.<br>
+					There are still some bugs in this mod, but mostly playable.
 				`
 			},
 			{
@@ -38,6 +49,7 @@ const modList=[
 				"author":"Donaldino7712",
 				"description":`
 					Due to Simplified is abandoned, the author decides to make this mod of the same concept.<br>
+					<i>Although this mod contains a new system, I put it in Rebalance category because Simplified is here.</i><br>
 					Currently it is finished.
 				`
 			},
@@ -48,6 +60,7 @@ const modList=[
 				"description":`
 					This mod makes all formula smooth, that is, softcaps are either removed or start at 0.<br>
 					Some mechanics are changed and all contents are rebalanced.<br>
+					<i>Although a changed mechanic is a new system, it still makes sense being called as a rebalance mod.</i><br>
 					Currently it is finished up to pre-eternity (1e2000 IP).
 				`
 			},
@@ -60,6 +73,15 @@ const modList=[
 					Currently it is mostly finished.
 				`
 			},
+			{
+				"name":"AD: undefined",
+				"link":"https://cot-cel-of-mobile.github.io/AD-undefined/",
+				"author":"cot",
+				"description":`
+					This mod makes the game much faster through semi-unbalanced changes, including new achievement rewards and new time studies.<br>
+					Currently it is mostly finished.
+				`
+			},
 		]
 	},
 	{
@@ -68,15 +90,6 @@ const modList=[
 			These mods add new content in normal playthrough.
 		`,
 		"list":[
-			{
-				"name":"AD Unoriginal",
-				"link":"https://hexavault.github.io/AntimatterDimensions-Unoriginal/",
-				"author":"Hexa",
-				"description":`
-					This mod adds the 9th dimension, and a new achievement each row.<br>
-					There are still some bugs in this mod, but mostly playable.
-				`
-			},
 			{
 				"name":"AD: Rewarded",
 				"link":"https://rangaz.github.io/AntimatterDimensionsWithAchievementRewards/",
@@ -147,13 +160,75 @@ const modList=[
 				"description":`
 					This mod adds a new prestige layer \"Mend\" after the original ending.<br>
 					Besides some simple upgrades and milestones, there are more content like warp reality.<br>
-					Currently it is abandoned for waiting for Break Eternity port of the game.
+					Currently it is abandoned, the rewritten version is being developed.
+				`
+			},
+			{
+				"name":"AD: Atomic",
+				"link":"https://circle-gon.github.io/AntimatterDimensionsPostReality",
+				"author":"incremental_gamer",
+				"description":`
+					This mod adds a new prestige layer \"Collapse\" after the original ending.<br>
+					While including speedrun milestones, more automator commands are added to automate more content.<br>
+					Currently it is finished up to before 'Break the Universe'. The author says a rewritten version is planned.
 				`
 			},
 		]
 	},
 	{
-		"category":"Different game based on the game's code",
+		"category":"Gameplay unaffected mods",
+		"description":`
+			These mods don't modify any gameplay content, but for example give an extra QoL.
+		`,
+		"list":[
+			{
+				"name":"AD: Celestial Mode",
+				"link":"https://miabread.github.io/ADCelestialMode/",
+				"author":"Miabread",
+				"description":`
+					This mod includes an in-game save editor, but not fully implemented.
+				`
+			},
+			{
+				"name":"AD: Mobile web glyph-picking",
+				"link":"https://asanned.github.io/AD_MWGP/",
+				"author":"asaned",
+				"description":`
+					This mod adds some buttons to enable glyph picking in mobile web.<br>
+					It may be not that meaningful now since Android Reality is out.
+				`
+			},
+			{
+				"name":"Antimatter Dimensions Music Player",
+				"link":"https://aquamarine309.github.io/ADMusicPlayer/",
+				"author":"aquamarine",
+				"description":`
+					This mod adds commands to the automator so that you can play music.<br>
+					You can get automator point to unlock automator by clicking tab button.
+				`
+			},
+			{
+				"name":"Antimatter Dimensions - Break Eternity Port",
+				"link":"https://github.com/hexavault/ad-breaketernity",
+				"author":"Hexa",
+				"description":`
+					This is not a mod to play; it's a base mod for other mods that want to use even bigger numbers.<br>
+					<i>Although some balance changes are made, they are just for simpler calculations.</i><br>
+					The title links to not a playable version but the repository.
+				`
+			},
+			{
+				"name":"AD: Sneak Peek",
+				"link":"https://wyxkk.github.io/AD-Sneak-Peek/",
+				"author":"WYXkk",
+				"description":`
+					This mod shows extra info for upcoming glyphs: at what level will they get a what new effect.
+				`
+			},
+		]
+	},
+	{
+		"category":"Completely different game",
 		"description":`
 			These games use code from AD with different content, and so are <i>*technically*</i> AD mods.
 		`,
@@ -171,4 +246,4 @@ const modList=[
 		]
 	},
 ];
-const updateTimeStamp=1723996800;
+const updateTimeStamp=1725555600;
