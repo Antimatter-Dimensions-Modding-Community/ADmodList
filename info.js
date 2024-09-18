@@ -154,13 +154,20 @@ const modList=[
 		`,
 		"list":[
 			{
-				"name":"Antimatter Dimensions: Redemption Legacy",
+				"name":"Antimatter Dimensions: Redemption",
 				"link":"https://toilet45.github.io/ADRedemption/",
 				"author":"Royal (and many other developers)",
 				"description":`
 					This mod adds a new prestige layer \"Mend\" after the original ending.<br>
 					Besides some simple upgrades and milestones, there are more content like warp reality.<br>
 					Currently it is abandoned, the rewritten version is being developed.
+				`
+			},{
+				"name":"Antimatter Dimensions: Redemption Rewritten",
+				"link":"https://toilet45.github.io/ADRedRewritten/",
+				"author":"Royal (and many other developers)",
+				"description":`
+					Rewrites AD:Redemption into the break_eternity.js framework.
 				`
 			},
 			{
@@ -223,6 +230,14 @@ const modList=[
 				"author":"WYXkk",
 				"description":`
 					This mod shows extra info for upcoming glyphs: at what level will they get a what new effect.
+				`
+			},
+			{
+				"name":"AD: i18n",
+				"link":"https://aquamarine309.github.io/ADi18n/",
+				"author":"aquamarine309",
+				"description":`
+					Based on text in Android version, Antimatter Dimensions goes multilingual! Supported Languages: Chinese, English, Japanese, Chinese (but after terrible machine translation). Default language is Chinese, go to 选项 (Options) - 视觉效果 (Visual) - 语言 (Language) to switch between languages.
 				`
 			},
 		]
